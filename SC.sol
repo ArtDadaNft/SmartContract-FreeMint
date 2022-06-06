@@ -18,7 +18,7 @@ contract GEOM is Ownable, ERC721A {
 
     uint256 public totalTeamSupply;
 
-    string public revealedURI = "ipfs://QmXUD1yZx4RZDfsogkdmjPavRtBy2kwtUABMuZ9pZ5Zber/";
+    string public revealedURI = "ipfs:// ----IFPS---/";
 
     bool public paused = true;
 
